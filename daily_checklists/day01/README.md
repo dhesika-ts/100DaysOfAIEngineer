@@ -26,7 +26,7 @@ day01/
 
 # Day 1: NumPy Basics - Array Operations & Vectorization
 
-**Phase 1: Foundations & Classical ML** | **Date:** ___________
+**Phase 1: Foundations & Classical ML** | **Date:** 17/11/2026
 
 ---
 
