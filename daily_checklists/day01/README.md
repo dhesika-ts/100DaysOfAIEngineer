@@ -5,6 +5,7 @@
 This directory is where you'll store all your code, notebooks, and project files for Day 1.
 
 **Structure your day directory:**
+
 ```
 day01/
 ├── README.md          (this file - your daily log)
@@ -16,6 +17,7 @@ day01/
 ```
 
 **When you complete Day 1:**
+
 1. ✅ Complete all tasks below
 2. 💻 Push your code to this directory
 3. 📝 Update this README with your learnings
@@ -103,15 +105,21 @@ Before starting, ensure you understand:
 ### 1. 📚 Conceptual Understanding
 
 - [ ] Read through learning resources
+
 - [ ] Watch at least one video tutorial
+
 - [ ] Take notes on key concepts
+
 - [ ] Understand why this topic matters
 
 ### 2. 💻 Hands-On Practice
 
 - [ ] Set up your environment
+
 - [ ] Complete coding exercises
+
 - [ ] Experiment with examples
+
 - [ ] Debug and troubleshoot issues
 
 ### 3. 🚀 Mini Project
@@ -130,8 +138,11 @@ Build a practical project applying NumPy Basics - Array Operations & Vectorizati
 ### 4. 📝 Documentation
 
 - [ ] Comment your code clearly
+
 - [ ] Update this README with your learnings
+
 - [ ] Note any challenges you faced
+
 - [ ] Write down questions for the community
 
 ---
@@ -139,8 +150,11 @@ Build a practical project applying NumPy Basics - Array Operations & Vectorizati
 ## ⚠️ Common Pitfalls to Avoid
 
 - [ ] Skipping fundamentals and jumping ahead
+
 - [ ] Not testing code with different inputs
+
 - [ ] Copy-pasting without understanding
+
 - [ ] Ignoring error messages
 
 ---
@@ -192,6 +206,7 @@ Day 1/100 ✅
 ```
 
 **Why post daily:**
+
 - 📊 Build your public learning streak
 - 🤝 Get support when stuck
 - 💪 Stay accountable to the community
@@ -234,11 +249,17 @@ The progress is real! 💪
 Before you finish Day 1:
 
 - [ ] All learning objectives achieved
+
 - [ ] Code written and tested
+
 - [ ] Mini project completed
+
 - [ ] Code pushed to GitHub
+
 - [ ] Discord check-in posted
+
 - [ ] Notes and reflections documented
+
 - [ ] Tomorrow's topic previewed
 
 ---
@@ -246,26 +267,31 @@ Before you finish Day 1:
 ## 📝 Notes & Reflections
 
 **What I learned today:**
+
 ```
 [Write your key takeaways]
 ```
 
 **Challenges I faced:**
+
 ```
 [What was difficult?]
 ```
 
 **How I overcame them:**
+
 ```
 [Your solutions]
 ```
 
 **Questions for the community:**
+
 ```
 [What are you still unsure about?]
 ```
 
 **Tomorrow's prep:**
+
 ```
 [What will you study for Day 2?]
 ```
