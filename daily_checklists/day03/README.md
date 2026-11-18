@@ -5,6 +5,7 @@
 This directory is where you'll store all your code, notebooks, and project files for Day 3.
 
 **Structure your day directory:**
+
 ```
 day03/
 ├── README.md          (this file - your daily log)
@@ -16,6 +17,7 @@ day03/
 ```
 
 **When you complete Day 3:**
+
 1. ✅ Complete all tasks below
 2. 💻 Push your code to this directory
 3. 📝 Update this README with your learnings
@@ -26,7 +28,7 @@ day03/
 
 # Day 3: Pandas Fundamentals
 
-**Phase 1: Foundations & Classical ML** | **Date:** ___________
+**Phase 1: Foundations & Classical ML** | **Date:** 18/11/2026
 
 ---
 
@@ -103,15 +105,21 @@ Before starting, ensure you understand:
 ### 1. 📚 Conceptual Understanding
 
 - [ ] Read through learning resources
+
 - [ ] Watch at least one video tutorial
+
 - [ ] Take notes on key concepts
+
 - [ ] Understand why this topic matters
 
 ### 2. 💻 Hands-On Practice
 
 - [ ] Set up your environment
+
 - [ ] Complete coding exercises
+
 - [ ] Experiment with examples
+
 - [ ] Debug and troubleshoot issues
 
 ### 3. 🚀 Mini Project
@@ -130,8 +138,11 @@ Build a practical project applying Pandas Fundamentals concepts learned today.
 ### 4. 📝 Documentation
 
 - [ ] Comment your code clearly
+
 - [ ] Update this README with your learnings
+
 - [ ] Note any challenges you faced
+
 - [ ] Write down questions for the community
 
 ---
@@ -139,8 +150,11 @@ Build a practical project applying Pandas Fundamentals concepts learned today.
 ## ⚠️ Common Pitfalls to Avoid
 
 - [ ] Skipping fundamentals and jumping ahead
+
 - [ ] Not testing code with different inputs
+
 - [ ] Copy-pasting without understanding
+
 - [ ] Ignoring error messages
 
 ---
@@ -195,6 +209,7 @@ Day 3/100 ✅
 ```
 
 **Why post daily:**
+
 - 📊 Build your public learning streak
 - 🤝 Get support when stuck
 - 💪 Stay accountable to the community
@@ -237,11 +252,17 @@ The progress is real! 💪
 Before you finish Day 3:
 
 - [ ] All learning objectives achieved
+
 - [ ] Code written and tested
+
 - [ ] Mini project completed
+
 - [ ] Code pushed to GitHub
+
 - [ ] Discord check-in posted
+
 - [ ] Notes and reflections documented
+
 - [ ] Tomorrow's topic previewed
 
 ---
@@ -249,26 +270,31 @@ Before you finish Day 3:
 ## 📝 Notes & Reflections
 
 **What I learned today:**
+
 ```
 [Write your key takeaways]
 ```
 
 **Challenges I faced:**
+
 ```
 [What was difficult?]
 ```
 
 **How I overcame them:**
+
 ```
 [Your solutions]
 ```
 
 **Questions for the community:**
+
 ```
 [What are you still unsure about?]
 ```
 
 **Tomorrow's prep:**
+
 ```
 [What will you study for Day 4?]
 ```
