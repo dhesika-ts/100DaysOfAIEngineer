@@ -104,13 +104,13 @@ Before starting, ensure you understand:
 
 ### 1. 📚 Conceptual Understanding
 
-- [ ] Read through learning resources
+- [x] Read through learning resources
 
-- [ ] Watch at least one video tutorial
+- [x] Watch at least one video tutorial
 
-- [ ] Take notes on key concepts
+- [x] Take notes on key concepts
 
-- [ ] Understand why this topic matters
+- [x] Understand why this topic matters
 
 ### 2. 💻 Hands-On Practice
 
